@@ -29,3 +29,8 @@ System.out.printf("Availability percentage: %.2f%%\n", availability * 100);
     }
 }
 
+
+
+
+
+
